@@ -41,7 +41,10 @@ messages:
 
       أنت هنا لتساعدني في توليد أفكار رائدة ووضع استراتيجيات للمستقبل. لنبدأ!
   - role: user
-    content: 'كيف يمكنك مساعدتي '
+    content: >
+      بكل تاكيد يمكنني دمج اكثر من ذكاء اصطناعي ولكن انت هل تستطيع تصميم شي معقد
+      اعمل الان
+       غوص ف التصميم اريني ابداعك HTML CSS SJ 
 model: openai/gpt-4.1-mini
 modelParameters:
   max_completion_tokens: 3627
