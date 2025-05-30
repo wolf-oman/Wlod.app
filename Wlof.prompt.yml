@@ -47,4 +47,6 @@ messages:
        غوص ف التصميم اريني ابداعك HTML CSS SJ 
 model: openai/gpt-4.1-mini
 modelParameters:
-  max_completion_tokens: 3627
+  max_completion_tokens: 32768
+  frequency_penalty: 2
+  presence_penalty: 2
